@@ -63,7 +63,17 @@ figure {
 [class*="col-"] {
     padding: 1rem;
 }
-
+.gif{
+  height: 250px;
+  width: 250px;
+}
+.fun{
+  text-align: center;
+}
+.carousel-item{
+  height: 300px;
+  width: 100%;
+}
 
 
 
